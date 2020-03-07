@@ -1,0 +1,19 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000m\u0000i\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangQi182/promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WangQi182/promise/issues"
+  },
+  "homepage": "https://github.com/WangQi182/promise#readme"
+}
